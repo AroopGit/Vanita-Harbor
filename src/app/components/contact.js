@@ -17,7 +17,7 @@ const Contact = () => {
                 <div className={styles.contact_box}>
                     <div className={styles.box1}>
                         <h1 className={styles.query}>Send us a message</h1>
-                        <form action="https://formsubmit.co/hanish.tharwani2021@vitbhopal.ac.in" method="POST" className={styles.card}>
+                        <form action="" method="POST" className={styles.card}>
                             <div className={styles.fly}>
                                 <label className={styles.head_name}>Name</label>
                                 <input type="text" name="name" className={styles.input} />
@@ -44,28 +44,28 @@ const Contact = () => {
                                 <FontAwesomeIcon icon={faLocationDot} className={styles.icon} />
                                 <div className={styles.add}>
                                     <h1 className={styles.address}>Address:</h1>
-                                    <p className={styles.west}>Sector 11, Udaipur 313002, Rajasthan India</p>
+                                    <p className={styles.west}>Web Information Manager National Informatics Centre A4B4, 3rd Floor, A Block CGO Complex, Lodhi Road New Delhi-110003</p>
                                 </div>
                             </div>
                             <div className={styles.cat1}>
                                 <FontAwesomeIcon icon={faPhone} className={styles.icon} />
                                 <div className={styles.add}>
                                     <h1 className={styles.address}>Phone:</h1>
-                                    <p className={styles.west}>+91 9024308901</p>
+                                    <p className={styles.west}>+91 112</p>
                                 </div>
                             </div>
                             <div className={styles.cat1}>
                                 <FontAwesomeIcon icon={faEnvelope} className={styles.icon} />
                                 <div className={styles.add}>
                                     <h1 className={styles.address}>Email:</h1>
-                                    <p className={styles.west}>hanishtharwani283@gmail.com</p>
+                                    <p className={styles.west}>indiaportal@gov.in</p>
                                 </div>
                             </div>
                             <div className={styles.cat1}>
                                 <FontAwesomeIcon icon={faGlobe} className={styles.icon} />
                                 <div className={styles.add}>
                                     <h1 className={styles.address}>Website:</h1>
-                                    <Link href="https://my-portfolio-website-three-delta.vercel.app/" className={styles.west}>My Portfolio</Link>
+                                    <Link href="https://services.india.gov.in/service/detail/lodge-your-complaint-with-national-commission-for-women-1" className={styles.west}>complaint</Link>
                                 </div>
                             </div>
                         </div>

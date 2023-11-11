@@ -14,9 +14,9 @@ const About = () => {
                 <h1 className={styles.head} data-aos="fade-up">Why We Care</h1>
                 <div className={styles.grid}>
                     <div data-aos="fade-up" className={styles.box}>
-                        <h1 className={styles.name}>Meet the Founder</h1>
+                        <h1 className={styles.name}>Why You Should Raise your Voice</h1>
                         <p className={styles.paras}>
-                            Hello, I'm Hanish Tharwani, a dedicated college student pursuing a degree in Computer Science. In this fast-paced and competitive world, I've witnessed firsthand the growing concerns around mental health. It's not just a prevalent issue; it's a pressing one, affecting countless individuals around us, including students like me.
+                        In today's world, mental health is more than just a personal concern, it's a global issue that affects millions of people every day. Women, in particular, face unique challenges and often struggle to seek help due to societal stigmas and lack of resources. Don't let mental health issues define you. Raise your voice, seek support, and start your journey to well-being. Together, we can create a world where mental health is a priority for everyone.
                         </p>
                     </div>
                     <div data-aos="fade-up" className={styles.box}>
@@ -26,15 +26,15 @@ const About = () => {
                         </p>
                     </div>
                     <div data-aos="fade-up" className={styles.box}>
-                        <h1 className={styles.name}>Our Vision and Mission</h1>
+                        <h1 className={styles.name}>Our Vision</h1>
                         <p className={styles.paras}>
-                            Driven by the belief that mental health is a cornerstone of overall well-being, I decided to channel my skills in full-stack development to create something meaningful. That's how this website came into existence. Our mission is simple yet profound: to provide a safe haven where anyone, regardless of their background or age, can find support, resources, and solace.
+                        Our vision is to create a world where every woman feels empowered to share her experiences and seek support for her mental health, fostering a community that understands, supports, and uplifts. We envision a future where mental health is no longer a taboo, but a topic of open conversation and collective action, leading to a society where women's well-being is prioritized and celebrated.
                         </p>
                     </div>
                     <div data-aos="fade-up" className={styles.box}>
-                        <h1 className={styles.name}>Our Commitment</h1>
+                        <h1 className={styles.name}>Our Mission</h1>
                         <p className={styles.paras}>
-                            We're committed to breaking the stigma surrounding mental health. We want to create a space where you can openly discuss your feelings, fears, and triumphs. Here, you'll discover a community that listens, understands, and supports you on your journey to better mental health.
+                        Our mission is to provide a safe, anonymous, and accessible platform for women to express their experiences with mental health issues and anonymous complaints. We aim to connect women with resources, support, and a community that understands their struggles, encouraging them to seek help, share their stories, and find strength in unity. Through our platform, we strive to break the silence surrounding mental health, promote awareness, and empower women to take control of their mental health journey.
                         </p>
                     </div>
                     <div data-aos="fade-up" className={styles.box}>
